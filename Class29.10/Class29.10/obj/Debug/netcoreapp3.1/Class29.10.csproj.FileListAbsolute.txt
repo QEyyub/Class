@@ -1,0 +1,14 @@
+C:\Users\kadir\source\repos\Class29.10\Class29.10\bin\Debug\netcoreapp3.1\Class29.10.exe
+C:\Users\kadir\source\repos\Class29.10\Class29.10\bin\Debug\netcoreapp3.1\Class29.10.deps.json
+C:\Users\kadir\source\repos\Class29.10\Class29.10\bin\Debug\netcoreapp3.1\Class29.10.runtimeconfig.json
+C:\Users\kadir\source\repos\Class29.10\Class29.10\bin\Debug\netcoreapp3.1\Class29.10.runtimeconfig.dev.json
+C:\Users\kadir\source\repos\Class29.10\Class29.10\bin\Debug\netcoreapp3.1\Class29.10.dll
+C:\Users\kadir\source\repos\Class29.10\Class29.10\bin\Debug\netcoreapp3.1\Class29.10.pdb
+C:\Users\kadir\source\repos\Class29.10\Class29.10\obj\Debug\netcoreapp3.1\Class29.10.csproj.AssemblyReference.cache
+C:\Users\kadir\source\repos\Class29.10\Class29.10\obj\Debug\netcoreapp3.1\Class29.10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadir\source\repos\Class29.10\Class29.10\obj\Debug\netcoreapp3.1\Class29.10.AssemblyInfoInputs.cache
+C:\Users\kadir\source\repos\Class29.10\Class29.10\obj\Debug\netcoreapp3.1\Class29.10.AssemblyInfo.cs
+C:\Users\kadir\source\repos\Class29.10\Class29.10\obj\Debug\netcoreapp3.1\Class29.10.csproj.CoreCompileInputs.cache
+C:\Users\kadir\source\repos\Class29.10\Class29.10\obj\Debug\netcoreapp3.1\Class29.10.dll
+C:\Users\kadir\source\repos\Class29.10\Class29.10\obj\Debug\netcoreapp3.1\Class29.10.pdb
+C:\Users\kadir\source\repos\Class29.10\Class29.10\obj\Debug\netcoreapp3.1\Class29.10.genruntimeconfig.cache
